@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="12px" viewBox="0 0 77 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Graph/Line Possitive</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.54873632,21.9952259 C2.26966398,22.1334225 1.92456306,22.0322337 1.77793183,21.7692144 C1.6313006,21.5061951 1.73866534,21.1809453 2.01773767,21.0427488 L12.3300626,15.9360868 C14.4791327,14.8718676 17.0288085,14.801022 19.2406687,15.7440678 L32.328005,21.3239678 C34.0009266,22.0372325 35.9102989,22.0759006 37.6141852,21.4310221 L60.4768347,12.778079 C62.6866161,11.9417317 65.1792234,12.0924161 67.2575242,13.1879888 L77.6803763,18.6823769 C77.9555126,18.8274146 78.0538023,19.1552029 77.8999125,19.4145126 C77.7460227,19.6738223 77.3982283,19.7664582 77.1230919,19.6214205 L66.7002399,14.1270323 C64.9231421,13.1902384 62.7917822,13.0613923 60.902259,13.7765297 L38.0396095,22.4294729 C36.0469289,23.1836528 33.8139342,23.1384308 31.8574665,22.3042738 L18.7701302,16.7243738 C16.8788295,15.9180013 14.698672,15.9785794 12.8610613,16.888564 L2.54873632,21.9952259 Z" id="path-1"></path>
+    </defs>
+    <g id="📱-Individual-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Analytics-Graphs-4" transform="translate(-186.000000, -268.000000)">
+            <g id="List" transform="translate(15.000000, 125.000000)">
+                <g id="Row" transform="translate(0.000000, 97.000000)">
+                    <g id="Graph/Line-Default" transform="translate(170.000000, 34.325707)">
+                        <mask id="mask-2" fill="#687089">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Line" fill="#687089" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="UI/Colors/White" mask="url(#mask-2)" fill="#687089" fill-rule="evenodd">
+                            <rect id="Color" x="0" y="0" width="80" height="34"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
